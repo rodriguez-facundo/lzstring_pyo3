@@ -2,7 +2,7 @@
 name = "lzma_pyo3"
 authors = ["spl0i7 <ketansingh.sh@gmail.com>"]
 version = "0.0.1"
-edition = "2018"
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
